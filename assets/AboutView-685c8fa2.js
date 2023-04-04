@@ -1,1 +1,0 @@
-import{_ as e,o,c as s,b as t}from"./index-4cbcf524.js";const a={},c={class:"about"},n=t("h1",null,"This is an about page",-1),_=[n];function r(i,d,p,u,l,f){return o(),s("div",c,_)}const b=e(a,[["render",r]]);export{b as default};
