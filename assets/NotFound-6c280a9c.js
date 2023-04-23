@@ -1,1 +1,0 @@
-import{_ as r}from"./index-56446f1c.js";const t={};function c(e,n){return"404，沒有這個頁面喔。"}const _=r(t,[["render",c]]);export{_ as default};
